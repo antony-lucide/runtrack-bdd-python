@@ -1,0 +1,1 @@
+SELECT * FROM etudiants ORDER BY age limit 1;
